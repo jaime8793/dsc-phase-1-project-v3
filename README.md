@@ -72,4 +72,5 @@ Understanding which engine types are associated with higher fatalities supports 
 
 ## This is the link to the Tableu Public
 
-<Link href="https://public.tableau.com/views/Project_17595045659530/CompleteDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau)](https://public.tableau.com/views/Project_17595045659530/CompleteDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
